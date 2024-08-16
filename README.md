@@ -1,4 +1,4 @@
-# Real-time-Legal-Information-Helper-System-for-Healthcare-Workers 의료계 종사자들을 위한 실시간 법률정보 도우미 시스템
+# 의료계 종사자들을 위한 실시간 법률정보 도우미 시스템(Real-time-Legal-Information-Helper-System-for-Healthcare-Workers)
 
 권력자의 부당한 부탁, 상급자의 부당한 대우, 주취자 폭행 등과 같이 의료계를 종사하면서 일어날 수 있는 부당 및 불법적 요구, 위기 상황에 대한 대응을 위해 법률 정보를 쉽게 찾아볼 수 있도록 도와주는 시스템
 
