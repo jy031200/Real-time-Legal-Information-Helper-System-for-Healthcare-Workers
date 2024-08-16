@@ -4,7 +4,6 @@
 
 ![이미지](https://github.com/user-attachments/assets/db6761fe-ae64-4955-8b1d-22ebf41393f4)
 
-- 과목: 설계 및 프로젝트 기본 1
 - 기간: 2021.03 ~ 2021.06
 - 역할: 팀원
 - 기여도: 40%
