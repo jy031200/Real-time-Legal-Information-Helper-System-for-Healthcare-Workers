@@ -16,6 +16,6 @@
     - 유저 인터페이스(UI) 설계 및 개발
         - QT와 PyQt5를 사용하여 UI를 설계하고 개발
     - 기능 구현
-        Pycharm에서 Python과 PyQT를 사용하여 페이지네이션(pagination) 및 팝업 구현 
+        - Pycharm에서 Python과 PyQT를 사용하여 페이지네이션(pagination) 및 팝업 구현 
     - 데이터 가공 및 출력
         - 크롤링한 데이터를 가공하여 화면에 출력
